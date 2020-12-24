@@ -11,8 +11,8 @@ import "./App.css";
 import Axios from "./components/axiox_";
 import Recipe from "./components/Recipe";
 
-const appID = "0b766607";
-const appKEY = "4a43006a1c9baecc99f344add70bce72";
+const appID = "";
+const appKEY = "";
 
 function App() {
   const [recipes, setRecipes] = useState([]);
